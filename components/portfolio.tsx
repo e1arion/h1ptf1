@@ -228,7 +228,7 @@ function PortfolioPage() {
             <img
               src={selectedItem.fullImage}
               alt={selectedItem.title}
-              className="w-full h-auto"
+              className="w-full max-h-[70vh] object-contain"
             />
             
             <div className="p-6">
