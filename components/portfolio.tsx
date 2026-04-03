@@ -228,7 +228,7 @@ function PortfolioPage() {
             <img
               src={selectedItem.fullImage}
               alt={selectedItem.title}
-              className="w-full aspect-video object-cover"
+              className="w-full h-auto"
             />
             
             <div className="p-6">
