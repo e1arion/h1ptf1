@@ -80,7 +80,46 @@ export type PortfolioItem = {
 }
 
 export const portfolioConfig: PortfolioItem[] = [
-
+  {
+    id: "1",
+    title: "Body Revamp Male Minus",
+    description: "MV Sculpt revamp for Male Minus Body Base",
+    previewImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168344514702/Screenshot_2026-03-15_at_5.27.20_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=34378799c3effad5c1978b495811da2d7759ed44b3b010f57382fa0cae902f43&",
+    fullImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168344514702/Screenshot_2026-03-15_at_5.27.20_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=34378799c3effad5c1978b495811da2d7759ed44b3b010f57382fa0cae902f43&",
+    category: "Redesign",
+    dateCreated: "N/A",
+    type: "commission",
+  },
+  {
+    id: "2",
+    title: "Body Revamp Male Plus",
+    description: "MV Sculpt revamp for Male Plus Body Base",
+    previewImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168092721183/Screenshot_2026-03-15_at_5.36.16_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=2f73e35a1b6cbfd1f307f57723391aa982d8fc4cd948b68e1e0a78e8fe54cf3c&",
+    fullImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168092721183/Screenshot_2026-03-15_at_5.36.16_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=2f73e35a1b6cbfd1f307f57723391aa982d8fc4cd948b68e1e0a78e8fe54cf3c&",
+    category: "Redesign",
+    dateCreated: "N/A",
+    type: "commission",
+  },
+  {
+    id: "3",
+    title: "Body Revamp Female Minus",
+    description: "MV Sculpt revamp for Female Minus Body Base",
+    previewImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738169061740644/Screenshot_2026-03-15_at_5.21.23_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=88d91cebeb3c7ca573b72724382c71ae313ce624e00541b830d436e0d4f882c3&",
+    fullImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738169061740644/Screenshot_2026-03-15_at_5.21.23_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=88d91cebeb3c7ca573b72724382c71ae313ce624e00541b830d436e0d4f882c3&",
+    category: "Redesign",
+    dateCreated: "N/A",
+    type: "commission",
+  },
+  {
+    id: "4",
+    title: "Body Revamp Female Plus",
+    description: "MV Sculpt revamp for Female Plus Body Base",
+    previewImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168830787599/Screenshot_2026-03-15_at_5.25.13_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=0bc0749928ab1e965b05cc2c7525e7a141defcc3a578299be6c3eb76a74a04c6&",
+    fullImage: "https://cdn.discordapp.com/attachments/1406432387415412756/1489738168830787599/Screenshot_2026-03-15_at_5.25.13_PM_-_e1arion.png?ex=69d18249&is=69d030c9&hm=0bc0749928ab1e965b05cc2c7525e7a141defcc3a578299be6c3eb76a74a04c6&",
+    category: "Redesign",
+    dateCreated: "N/A",
+    type: "commission",
+  },
 ]
 
 // ============================================
