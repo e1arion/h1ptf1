@@ -16,11 +16,27 @@ const instrumentSerif = Instrument_Serif({
 
 export const metadata: Metadata = {
   title: "hilarión",
-  description: "just being cunthilarión",
+  description: "periawd ah periawd uh periawd ah periawd uh",
   icons: {
     icon: "/logo.png",
     shortcut: "/logo.png",
     apple: "/logo.png",
+  },
+  openGraph: {
+    title: "hilarión",
+    description: "periawd ah periawd uh periawd ah periawd uh",
+    images: [
+      {
+        url: "/logo.png",
+        width: 512,
+        height: 512,
+        alt: "hilarión logo",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/logo.png"],
   },
 }
 
